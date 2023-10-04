@@ -1,0 +1,20 @@
+.aside{
+    
+    position: absolute;
+    margin: 10px;
+    z-index: 88;
+    display: flex;
+    width: 15%;
+    flex-direction: column;
+   
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .aside{
+width: 35%;
+margin: 0;   
+z-index: 2;
+
+    }}

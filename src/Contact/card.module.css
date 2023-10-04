@@ -1,0 +1,45 @@
+.main{ 
+    position: relative;
+     z-index: 1;
+     margin-left: 150px;
+    width: 70%;
+    margin-top: 50px;
+margin-bottom:50px ;
+}
+.forms{
+    background-color:rgb(235, 235, 235);
+    border: 0;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+.card-body {
+
+    margin-left: 100px;
+}
+.button{
+    background-color: #000000    ;
+    color: #ffffff;
+padding: 5px 40px;
+border: 0;
+font-size: 20px ;
+}
+.title{
+    font-family: 'Lora';
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    .main{ 
+        
+        width: 100%;
+        margin-left: 100px;
+    
+    }
+   
+    .cardBody {
+
+        margin-left: 10px;
+    }
+
+}

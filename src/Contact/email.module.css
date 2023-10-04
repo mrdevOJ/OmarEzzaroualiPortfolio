@@ -1,0 +1,24 @@
+
+img{
+    width: 20vh;
+}
+
+
+.mail{
+    width: 80%;
+    
+    word-wrap: break-word;
+    margin: 5px;
+
+}
+
+@media only screen and (max-width: 600px) {
+
+ 
+   
+ img{
+        width: 30%;
+    }
+
+
+}
