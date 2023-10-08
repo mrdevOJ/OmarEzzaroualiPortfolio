@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/omarezzarouali/OmarEzzaroualiPortfolio/static/css/main.69e761a0.css",
+    "main.js": "/omarezzarouali/OmarEzzaroualiPortfolio/static/js/main.72195178.js",
+    "index.html": "/omarezzarouali/OmarEzzaroualiPortfolio/index.html",
+    "main.69e761a0.css.map": "/omarezzarouali/OmarEzzaroualiPortfolio/static/css/main.69e761a0.css.map",
+    "main.72195178.js.map": "/omarezzarouali/OmarEzzaroualiPortfolio/static/js/main.72195178.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69e761a0.css",
+    "static/js/main.72195178.js"
+  ]
+}
