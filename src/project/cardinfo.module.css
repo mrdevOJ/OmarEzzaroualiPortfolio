@@ -30,7 +30,8 @@
     grid-gap: 10px;
 
   }
-  a{text-decoration: none;}
+  .a{text-decoration: none;}
+
   .column{
     padding: 10px;
   }
